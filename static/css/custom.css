@@ -7,23 +7,16 @@
 
 /* Adjusting navbar display */
 .quire-progress-bar {
-  background-color: #1e3253;
-  background-color: #3d5a88;
+  background-color: #671818;
   height: 6px;
-}
-#cover .quire-progress-bar {
-  background-color: #102343;
-}
-#cover .quire-progress-bar div {
-  background-color: #3f5479;
 }
 .quire-progress-bar div {
   height: 6px;
-  background-color: #768fb8;
+  background-color: #793f3f;
 }
 .quire-menu__formats h6 {
-  color: #647a9f;
-  border-color: #647a9f;
+  color: #9f6464;
+  border-color: #9f6464;
 }
 
 /* Using Source Sans for better font-weight match */
@@ -34,7 +27,7 @@
   font-weight: 300;
   margin-bottom: 0;
   background-color: inherit;
-  color: #000f27;
+  color: #27000e;
 }
 
 @media screen {
@@ -165,10 +158,10 @@
 }
 .quire-cover__more .hero-more {
   background-color: #5a6283;
-  background-color: #647a9f;
+  background-color: #9f6464;
 }
 .quire-cover .quire-page__content .container.is-fluid .content {
-  color: #000f27;
+  color: #27000e;
 }
 
 @media screen and (max-width: 900px) {
@@ -402,10 +395,10 @@
 
 /* Overriding default color */
 strong {
-  color: #000f27;
+  color: #27000e;
 }
 .backmatter .quire-copyright__icon * {
-  fill: #000f27;
+  fill: #27000e;
 }
 
 /* Styling copyright and about pages */
