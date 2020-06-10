@@ -622,10 +622,16 @@ strong {
   text-indent: 0;
 }
 
+/* Fix spacing for lists in print */
 @media print {
   .quire-page__content .content ul {
     margin-bottom: 1rem;
   }
+}
+
+/* Remove top margin from notes list and others */
+.content ol:first-child {
+  margin-top: 0;
 }
 
 
