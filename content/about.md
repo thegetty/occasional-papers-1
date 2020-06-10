@@ -11,17 +11,17 @@ In 2016, in response to recent attacks on cultural heritage sites in Syria, Iraq
 In this first issue of the series, Thomas G. Weiss and Nina Connelly examine the relationship between cultural cleansing and mass atrocities. After summarizing the key debates surrounding the destruction of cultural heritage in armed conflict zones, Weiss and Connelly present options for creating an international framework dedicated to its protection. They demonstrate how the UN’s Responsibility to Protect (R2P) doctrine, a preexisting framework that allows for international intervention to stop war crimes or genocide, might be adapted to protect cultural heritage sites. This paper introduces the varied challenges and issues connected to the protection of cultural heritage and proposes a way forward in the development of a unified international response.
 
 
-{{< q-class "backmatter" >}}
+<div class="backmatter">
 
 ## Citation Information
 
 ### Chicago
 
-Weiss, Thomas G., and Nina Connelly. “Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 1 (2017). http://getty.edu/publications/occasional-papers-1/.
+{{< q-citethis type="chicago" range="publication" >}}
 
 ### MLA
 
-Weiss, Thomas G., and Nina Connelly. “Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones.” J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy, no. 1, 2017. http://getty.edu/publications/occasional-papers-1/. Accessed <span class="cite-current-date">Aug. 29, 2019</span>.
+{{< q-citethis type="mla" range="publication" >}}
 
 ### Permanent URL
 
@@ -93,4 +93,4 @@ Also in the series:
 
 Cover: The Umayyad, or Great Mosque, of Aleppo, Syria, March 10, 2017. Photo: Alfred Yaghobzadeh / Sipa USA (Sipa via AP Images) / © 2017 The Associated Press
 
-{{< /q-class >}}
+</div>
