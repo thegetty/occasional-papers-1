@@ -647,3 +647,13 @@ strong {
   list-style-type: lower-alpha;
   line-height: 2;
 }
+
+@media print {
+  #copyright .quire-page__content {
+    column-count: 2;
+    max-width: none;
+  }
+  #copyright .quire-page__content .container .content hr {
+    width: 100%;
+  }
+}

@@ -22,7 +22,7 @@ This publication has been funded by the President’s International Council, J. 
 The text of this work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/). The cover image is reproduced with the permission of the rights holder acknowledged in the caption and is expressly excluded from the CC BY-NC license covering the rest of this publication. The image may not be reproduced, copied, transmitted, or manipulated without consent from the owner, who reserves all rights.
 
 First edition, 2018<br />
-Last updated, September 8, 2020
+Last updated, September 8, 2020<br />
 [github.com/thegetty/occasional-papers-1/](https://github.com/thegetty/occasional-papers-1/)
 
 **Published by Getty Publications, Los Angeles**<br />
