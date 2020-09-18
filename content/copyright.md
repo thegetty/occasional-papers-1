@@ -11,7 +11,7 @@ toc: false
 
 This publication was created using Quire™, a multiformat publishing tool from Getty.
 
-This issue was first published in 2018 at [getty.edu/publications/pdfs/culturalcleansing_Weiss_Connelly.pdf](https://www.getty.edu/publications/pdfs/culturalcleansing_Weiss_Connelly.pdf). The present online version was migrated in 2020 to [getty.edu/publications/occasional-papers-1/](https://www.getty.edu/publications/occasional-papers-1/); it features free PDF, EPUB, and Kindle/MOBI downloads.
+This issue was first published in 2018 at [getty.edu/publications/pdfs/CulturalCleansing_Weiss_Connelly.pdf](https://www.getty.edu/publications/pdfs/CulturalCleansing_Weiss_Connelly.pdf). The present online version was migrated in 2020 to [getty.edu/publications/occasional-papers-1/](https://www.getty.edu/publications/occasional-papers-1/); it features free PDF, EPUB, and Kindle/MOBI downloads.
 
 This publication has been funded by the President’s International Council, J. Paul Getty Trust.
 
