@@ -6,9 +6,9 @@ epub: false
 search: false
 ---
 
-In 2016, in response to recent attacks on cultural heritage sites in Syria, Iraq, and Timbuktu, the J.&#160;Paul Getty Trust convened a meeting at the British Academy in London to discuss the need for an international framework to protect cultural heritage in zones of armed conflict. To further explore these questions, the Trust subsequently launched the series J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy.
+In 2016, in response to recent attacks on cultural heritage sites in Syria, Iraq, and Timbuktu, the J.&#160;Paul Getty Trust convened a meeting at the British Academy in London to discuss the need for an international framework to protect cultural heritage in zones of armed conflict. To further explore these questions, the Trust subsequently launched the *J.&#160;Paul Getty Trust Occasional Papers in Cultural Heritage Policy*.
 
-In this first issue of the series, Thomas G. Weiss and Nina Connelly examine the relationship between cultural cleansing and mass atrocities. After summarizing the key debates surrounding the destruction of cultural heritage in armed conflict zones, Weiss and Connelly present options for creating an international framework dedicated to its protection. They demonstrate how the UN’s Responsibility to Protect (R2P) doctrine, a preexisting framework that allows for international intervention to stop war crimes or genocide, might be adapted to protect cultural heritage sites. This paper introduces the varied challenges and issues connected to the protection of cultural heritage and proposes a way forward in the development of a unified international response.
+In this first issue, Thomas G. Weiss and Nina Connelly examine the relationship between cultural cleansing and mass atrocities. After summarizing the key debates surrounding the destruction of cultural heritage in armed conflict zones, Weiss and Connelly present options for creating an international framework dedicated to its protection. They demonstrate how the UN’s Responsibility to Protect (R2P) doctrine, a preexisting framework that allows for international intervention to stop war crimes or genocide, might be adapted to protect cultural heritage sites. This paper introduces the varied challenges and issues connected to the protection of cultural heritage and proposes a way forward in the development of a unified international response.
 
 
 <div class="backmatter">
@@ -25,7 +25,7 @@ In this first issue of the series, Thomas G. Weiss and Nina Connelly examine the
 
 ### Permanent URL
 
-http://getty.edu/publications/occasional-papers-1/
+https://getty.edu/publications/occasional-papers-1/
 
 ## Revision History
 
@@ -74,7 +74,7 @@ This publication has been funded by the President’s International Council, J. 
 </svg>
 {{< /q-class >}}
 
-This text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International Public License](https://creativecommons.org/licenses/by-nc/4.0/). The cover image is reproduced with the permission of the rights holder acknowledged in the caption and is expressly excluded from the CC BY-NC license covering the rest of this publication. The image may not be reproduced, copied, transmitted, or manipulated without consent from the owner, who reserves all rights.
+This text of this work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). The cover image is reproduced with the permission of the rights holder acknowledged in the caption and is expressly excluded from the CC BY-NC license covering the rest of this publication. The image may not be reproduced, copied, transmitted, or manipulated without consent from the owner, who reserves all rights.
 
 **Published by Getty Publications, Los Angeles**<br />
 1200 Getty Center Drive, Suite 500<br />
@@ -86,11 +86,11 @@ ISBN 978-1-60606-672-0 (ebook)
 
 Also in the series:
 
-[*Cultural Genocide and the Protection of Cultural Heritage*](http://getty.edu/publications/occasional-papers-2/) <br />Edward C. Luck
+[“Cultural Genocide and the Protection of Cultural Heritage”](http://getty.edu/publications/occasional-papers-2/) <br />Edward C. Luck
 
-[*Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
+[“Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection”](https://www.getty.edu/publications/occasional-papers-3/) <br /> Helen Frowe and Derek Matravers
 
-[*Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*](https://www.getty.edu/publications/occasional-papers-4/) <br />Edited by James Cuno and Thomas G. Weiss
+[“Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict”](https://www.getty.edu/publications/occasional-papers-4/) <br />Edited by James Cuno and Thomas G. Weiss
 
 ---
 
