@@ -38,7 +38,7 @@ Any revisions or corrections made to this publication after the first edition da
 ### September 8, 2020
 
   - Migration to digital platform
-  - Release of new ebook edition
+  - Release of new e-book edition
 
 ## Other Formats
 
