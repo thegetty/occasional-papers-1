@@ -31,7 +31,7 @@ https://getty.edu/publications/occasional-papers-1/
 
 Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/occasional-papers-1/](https://github.com/thegetty/occasional-papers-1/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
-### January 9, 2018
+### December 5, 2017
 
   - First PDF edition
 
@@ -52,7 +52,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
 
 This publication has been funded by the President’s International Council, J. Paul Getty Trust.
 
-© 2018, 2020 J. Paul Getty Trust
+© 2017, 2020 J. Paul Getty Trust
 
 {{< q-class "cc-icon" >}}
 <svg class="quire-copyright__icon">
